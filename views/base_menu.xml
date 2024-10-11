@@ -1,0 +1,11 @@
+<odoo>
+    <menuitem
+            id ="todo_task_root_menu"
+            name = "ToDo Task"
+    />
+    <menuitem
+            id ="todo_menu"
+            name = "ToDo"
+            parent = "todo_task_root_menu"
+    />
+</odoo>
